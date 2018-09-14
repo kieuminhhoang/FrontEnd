@@ -19,12 +19,12 @@ const routes = [
     {
         path: '/',
         components: {
-            ttHeader: TTHeader,
-            ttMenu: TTMenu,
+            // ttMenu: TTMenu,
             ttBody: TTBody,
             ttFooter: TTFooter
         }
     },
+    
    
 ]
 

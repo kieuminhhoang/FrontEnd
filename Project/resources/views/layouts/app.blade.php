@@ -10,6 +10,8 @@
 
 <div id="app">
     <div id="wrapper">
+    @include('support.header')
+    @include('support.slider')
     @yield('content')
     </div>
 </div>

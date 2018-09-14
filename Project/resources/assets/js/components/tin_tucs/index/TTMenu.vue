@@ -1,6 +1,5 @@
 <template>
-    <div class="hero-area height-400 bg-img background-overlay">
-    </div>
+    
 </template>
 
 <script>
@@ -11,7 +10,7 @@
 </script>
 
 <style scoped>
-    .hero-area {
+    .single-hero-slide {
         background-image: url(./img/blog-img/bg3.jpg);
     }
 </style>
