@@ -1,4 +1,4 @@
-<header class="header-area">
+    <header class="header-area">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -13,11 +13,11 @@
                             	<li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Home</a>
-                                        <a class="dropdown-item" href="#">Catagory</a>
-                                        <a class="dropdown-item" href="#">Single Blog</a>
-                                        <a class="dropdown-item" href="#">Regular Page</a>
-                                        <a class="dropdown-item" href="#">Contact</a>
+                                        <a class="dropdown-item" href="index.html">Home</a>
+                                        <a class="dropdown-item" href="catagory.html">Catagory</a>
+                                        <a class="dropdown-item" href="single-blog.html">Single Blog</a>
+                                        <a class="dropdown-item" href="regular-page.html">Regular Page</a>
+                                        <a class="dropdown-item" href="contact.html">Contact</a>
                                     </div>
                                 </li>
                                 <li class="nav-item">

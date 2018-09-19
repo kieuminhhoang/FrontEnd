@@ -1,14 +1,11 @@
-<template>
     <footer class="footer-area">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-4">
                     <div class="footer-single-widget">
-                        <a href="#"><img src="img/core-img/logo.png" alt=""></a>
+                        <a href="#"><img src="{{ asset('images/img/core-img/logo.png') }}" alt=""></a>
                         <div class="copywrite-text mt-30">
-                            <p>
-                                Copyright &copy; All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                                </p>
+                            <p>Copyright &copy;2018 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
                         </div>
                     </div>
                 </div>
@@ -36,14 +33,3 @@
             </div>
         </div>
     </footer>
-</template>
-
-<script>
-    export default {
-        name: "TTFooter"
-    }
-</script>
-
-<style scoped>
-
-</style>
